@@ -1,0 +1,1 @@
+Proofread my notes resolving typos but keeping structure and content

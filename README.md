@@ -14,7 +14,11 @@ But the question of what functionalities are probably still somewhat workflow sp
 
 So this voice pad reflects my needs. Which are...
 
-### Start And Stop
+---
+
+# Bindings / Shortcuts Plans
+
+## Start And Stop
 
 Press a button to start STT and press a button to end the record stream / input.
 
@@ -26,3 +30,14 @@ This can be one button, two or three.
 
 Current preference: stick with 1.
 
+ ## Voice Note 
+
+ Besides STT
+
+ ## Voice Recording 
+
+ Design assumption/idea: separate buttons for real time and async recording 
+
+ # Design Notes
+
+ Context constriction is key: if the recording keys bind to F13 and that in turn binds to software level functions we will end up with overlapping text inputs
